@@ -31,6 +31,8 @@ public class CubeView : MonoBehaviour
         Destroy(gameObject);
     }
 
+    // test commit
+
     public void Init(Cube cube, GeneratorCubes generator, Material material)
     {
         _cube = cube;
